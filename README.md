@@ -1,4 +1,4 @@
-# Fikar Portfolio
+# My Portfolio
 
 Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), and deployed on Vercel.
 
